@@ -35,13 +35,12 @@ This project contains four Excel files and screenshots documenting the workflow.
 ---
 
 ### **4. Dashboard (`dashboard.xlsx`)**
-- **Description**: Interactive charts visualizing key insights.
 - **Instructions**:
   - Open `dashboard.xlsx` in Microsoft Excel.
 
 ---
 
-### **5. Screenshots to document data cleaning **
+### 5. Screenshots to document data cleaning 
 - **Instructions**:
   - Locate the image files.
   - Click on any image to preview or download.
