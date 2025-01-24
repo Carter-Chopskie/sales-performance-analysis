@@ -40,9 +40,9 @@ This project contains four Excel files and screenshots documenting the workflow.
 
 ---
 
-### 5. Screenshots to document data cleaning 
+### 5. Documentation folder 
 - **Instructions**:
-  - Locate the image files.
+  - Open the Documentation folder, which contains screenshots of the data cleaning process.
   - Click on any image to preview or download.
 
 ---
