@@ -9,6 +9,50 @@ This project analyzes E-commerce website sales performance for 2019 to identify 
 ## Data Source
 The dataset is fictional and sourced from Kaggle. You can access it [here](https://www.kaggle.com/datasets/naofilahmad/sales-datset-product-sample).
 
+## **How to View the Files**
+This project contains four Excel files and screenshots documenting the workflow. The files are provided for **educational purposes only**. Follow the instructions below to explore each file:
+
+---
+
+### **1. Raw Data (`raw_data.xlsx`)**
+- **Instructions**:
+  - Click `raw_data.xlsx` to preview or download.
+  - Open in Microsoft Excel or a compatible tool.
+
+---
+
+### **2. Cleaned Data (`cleaned_data.xlsx`)**
+- **Instructions**:
+  - Click `cleaned_data.xlsx` to preview or download.
+
+---
+
+### **3. Pivot Tables (`pivot_tables.xlsx`)**
+- **Instructions**:
+  - Click `pivot_tables.xlsx` to preview or download.
+  - Explore the slicers for dynamic filtering.
+
+---
+
+### **4. Dashboard (`dashboard.xlsx`)**
+- **Description**: Interactive charts visualizing key insights.
+- **Instructions**:
+  - Open `dashboard.xlsx` in Microsoft Excel.
+
+---
+
+### **5. Screenshots to document data cleaning **
+- **Instructions**:
+  - Locate the image files.
+  - Click on any image to preview or download.
+
+---
+
+### **Note**
+- Files are in `.xlsx` format and may need to be downloaded for full functionality.
+- All content is for **educational purposes only** and not intended for commercial use.
+
+
 ## About the Dataset
 The dataset is a collection of raw E-commerce sales data from the year 2019. It contains 13 columns:
 - Order ID
