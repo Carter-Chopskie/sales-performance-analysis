@@ -13,7 +13,7 @@ This project analyzes E-commerce website sales performance for 2019 to identify 
 
 ## 📁 Data Source
 
-The dataset is fictional and sourced from Kaggle. You can access it [here](https://www.kaggle.com/datasets).
+The dataset is fictional and sourced from Kaggle. You can access it [here](https://www.kaggle.com/datasets/itsnahm/ecommerce-sales-data-in-2019?resource=download).
 
 ---
 
